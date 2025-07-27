@@ -16,6 +16,8 @@ The bot plays optimally using:
 
 It analyzes all possible outcomes and chooses the best move to win or block the opponent.
 
+![updatedgif](https://github.com/user-attachments/assets/0ecd48ec-a73f-4ae5-a5f2-9f4fb8b7fc0f)
+
 ---
 
 ## 📁 File Structure
